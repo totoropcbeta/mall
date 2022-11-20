@@ -19,7 +19,7 @@ import java.util.List;
  */
 @Controller
 @Api(tags = "首页人气推荐管理")
-@Tag(name = "SmsHomeRecommendProductController", description = "首页人气推荐管理")
+//@Tag(name = "SmsHomeRecommendProductController", description = "首页人气推荐管理")
 @RequestMapping("/home/recommendProduct")
 public class SmsHomeRecommendProductController {
     @Autowired

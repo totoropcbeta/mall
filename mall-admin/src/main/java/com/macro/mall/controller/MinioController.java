@@ -25,7 +25,7 @@ import java.util.Date;
  */
 @Controller
 @Api(tags = "MinIO对象存储管理")
-@Tag(name = "MinioController", description = "MinIO对象存储管理")
+//@Tag(name = "MinioController", description = "MinIO对象存储管理")
 @RequestMapping("/minio")
 public class MinioController {
 

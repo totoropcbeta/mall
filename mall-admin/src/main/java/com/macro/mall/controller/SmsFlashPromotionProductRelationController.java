@@ -20,7 +20,7 @@ import java.util.List;
  */
 @Controller
 @Api(tags = "限时购和商品关系管理")
-@Tag(name = "SmsFlashPromotionProductRelationController", description = "限时购和商品关系管理")
+//@Tag(name = "SmsFlashPromotionProductRelationController", description = "限时购和商品关系管理")
 @RequestMapping("/flashProductRelation")
 public class SmsFlashPromotionProductRelationController {
     @Autowired

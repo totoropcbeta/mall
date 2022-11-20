@@ -23,7 +23,7 @@ import java.util.List;
  */
 @Controller
 @Api(tags = "商品属性管理")
-@Tag(name = "PmsProductAttributeController", description = "商品属性管理")
+//@Tag(name = "PmsProductAttributeController", description = "商品属性管理")
 @RequestMapping("/productAttribute")
 public class PmsProductAttributeController {
     @Autowired

@@ -18,7 +18,7 @@ import java.util.List;
  */
 @Controller
 @Api(tags = "sku商品库存管理")
-@Tag(name = "PmsSkuStockController", description = "sku商品库存管理")
+//@Tag(name = "PmsSkuStockController", description = "sku商品库存管理")
 @RequestMapping("/sku")
 public class PmsSkuStockController {
     @Autowired

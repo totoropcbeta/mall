@@ -20,7 +20,7 @@ import java.util.List;
  */
 @Controller
 @Api(tags = "后台菜单管理")
-@Tag(name = "UmsMenuController", description = "后台菜单管理")
+//@Tag(name = "UmsMenuController", description = "后台菜单管理")
 @RequestMapping("/menu")
 public class UmsMenuController {
 
