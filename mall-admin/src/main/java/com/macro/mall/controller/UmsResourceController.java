@@ -19,7 +19,7 @@ import java.util.List;
  * Created by macro on 2020/2/4.
  */
 @Controller
-@Api(tags = "UmsResourceController")
+@Api(tags = "后台资源管理")
 @Tag(name = "UmsResourceController", description = "后台资源管理")
 @RequestMapping("/resource")
 public class UmsResourceController {

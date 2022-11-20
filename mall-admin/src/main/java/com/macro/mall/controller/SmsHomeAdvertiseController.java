@@ -18,7 +18,7 @@ import java.util.List;
  * Created by macro on 2018/11/7.
  */
 @Controller
-@Api(tags = "SmsHomeAdvertiseController")
+@Api(tags = "首页轮播广告管理")
 @Tag(name = "SmsHomeAdvertiseController", description = "首页轮播广告管理")
 @RequestMapping("/home/advertise")
 public class SmsHomeAdvertiseController {

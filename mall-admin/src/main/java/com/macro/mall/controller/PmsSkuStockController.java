@@ -17,7 +17,7 @@ import java.util.List;
  * Created by macro on 2018/4/27.
  */
 @Controller
-@Api(tags = "PmsSkuStockController")
+@Api(tags = "sku商品库存管理")
 @Tag(name = "PmsSkuStockController", description = "sku商品库存管理")
 @RequestMapping("/sku")
 public class PmsSkuStockController {

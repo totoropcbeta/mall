@@ -20,7 +20,7 @@ import java.util.List;
  * Created by macro on 2018/4/26.
  */
 @Controller
-@Api(tags = "UmsMemberLevelController")
+@Api(tags = "会员等级管理")
 @Tag(name = "UmsMemberLevelController", description = "会员等级管理")
 @RequestMapping("/memberLevel")
 public class UmsMemberLevelController {

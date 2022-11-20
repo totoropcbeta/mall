@@ -18,7 +18,7 @@ import java.util.List;
  * Created by macro on 2018/9/30.
  */
 @Controller
-@Api(tags = "UmsRoleController")
+@Api(tags = "后台用户角色管理")
 @Tag(name = "UmsRoleController", description = "后台用户角色管理")
 @RequestMapping("/role")
 public class UmsRoleController {

@@ -21,7 +21,7 @@ import javax.servlet.http.HttpServletRequest;
  * Created by macro on 2018/4/26.
  */
 @Controller
-@Api(tags = "OssController")
+@Api(tags = "Oss对象存储管理")
 @Tag(name = "OssController", description = "Oss对象存储管理")
 @RequestMapping("/aliyun/oss")
 public class OssController {

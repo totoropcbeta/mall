@@ -18,7 +18,7 @@ import java.util.List;
  * Created by macro on 2018/10/17.
  */
 @Controller
-@Api(tags = "OmsOrderReturnReasonController")
+@Api(tags = "退货原因管理")
 @Tag(name = "OmsOrderReturnReasonController", description = "退货原因管理")
 @RequestMapping("/returnReason")
 public class OmsOrderReturnReasonController {

@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.*;
  * Created by macro on 2018/10/16.
  */
 @Controller
-@Api(tags = "OmsOrderSettingController")
+@Api(tags = "订单设置管理")
 @Tag(name = "OmsOrderSettingController", description = "订单设置管理")
 @RequestMapping("/orderSetting")
 public class OmsOrderSettingController {

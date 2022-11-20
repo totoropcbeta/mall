@@ -19,7 +19,7 @@ import java.util.List;
  * Created by macro on 2018/8/28.
  */
 @Controller
-@Api(tags = "SmsCouponController")
+@Api(tags = "优惠券管理")
 @Tag(name = "SmsCouponController", description = "优惠券管理")
 @RequestMapping("/coupon")
 public class SmsCouponController {

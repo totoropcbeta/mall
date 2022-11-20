@@ -19,7 +19,7 @@ import java.util.List;
  * Created by macro on 2018/10/18.
  */
 @Controller
-@Api(tags = "OmsCompanyAddressController")
+@Api(tags = "收货地址管理")
 @Tag(name = "OmsCompanyAddressController", description = "收货地址管理")
 @RequestMapping("/companyAddress")
 public class OmsCompanyAddressController {

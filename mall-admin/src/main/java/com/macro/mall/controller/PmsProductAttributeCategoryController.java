@@ -19,7 +19,7 @@ import java.util.List;
  * Created by macro on 2018/4/26.
  */
 @Controller
-@Api(tags = "PmsProductAttributeCategoryController")
+@Api(tags = "商品属性分类管理")
 @Tag(name = "PmsProductAttributeCategoryController", description = "商品属性分类管理")
 @RequestMapping("/productAttribute/category")
 public class PmsProductAttributeCategoryController {
